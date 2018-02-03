@@ -10,4 +10,6 @@ Instructions to run (on Linux):
       - N specifies the size of the window
       - F is the type of fltering and can have a value A meaning mean flter, or a value M meaning median filter
               
-Note: A Link has been included to show the result of the filters
+The following link provides several examples of the filters being applied to images,
+
+https://imgur.com/a/zahWy
