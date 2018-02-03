@@ -2,7 +2,7 @@ This program performs simple noise reduction on images in Portable Pixmap Format
 
 Instructions to run (on Linux):
   1) Run the Makefile via the command terminal. This will generate an executable with name "denoise" in the current directory.
-  2) Run the executable by typing
+  2) Run the executable by typing,
               ./denoise input.ppm output.ppm N F
       where,
       - input.ppm is the name of the input file
